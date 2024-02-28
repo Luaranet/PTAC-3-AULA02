@@ -1,0 +1,9 @@
+.cabecalho{
+    display: flex; 
+    height: 100px;
+    background-color: #9f9fc6;
+}
+
+.cabecalho h1{
+    margin-top: 0px;
+}
